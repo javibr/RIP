@@ -2,8 +2,6 @@
 //  arp.h
 //  arp
 //
-//  Created by Christian on 26/09/13.
-//  Copyright (c) 2013 Christian J. Calva. All rights reserved.
 //
 
 #ifndef arp_arp_h
